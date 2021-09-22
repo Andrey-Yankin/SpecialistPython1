@@ -31,3 +31,10 @@
 # 20 199.8 Rub.
 
 # TODO: your code here
+
+x = float(input("x :"))
+i = 1
+a = 20 
+while i <= a:
+    print(i, i*x,"Rub.")
+    i = i + 1
